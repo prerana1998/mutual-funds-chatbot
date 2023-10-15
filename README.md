@@ -5,4 +5,5 @@ The code has two parts
   2. Using openAI's gpt-3.5 turbo to generate answers for the queries
 Please look at the data section to get the documents that are used in generating the response,
 [app.py](https://github.com/prerana1998/mutual-funds-chatbot/blob/main/app.py) contains the inference part of generating response to the user queries
-[upload_docs.py](https://github.com/prerana1998/mutual-funds-chatbot/blob/main/upload_docs.py) contains code for generating embeddings and storing in the vectordatabase 
+[upload_docs.py](https://github.com/prerana1998/mutual-funds-chatbot/blob/main/upload_docs.py) contains code for generating embeddings and storing in the vectordatabase
+![Architecture](https://github.com/prerana1998/mutual-funds-chatbot/blob/main/Architecture.png)
