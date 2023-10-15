@@ -7,3 +7,5 @@ Please look at the data section to get the documents that are used in generating
 [app.py](https://github.com/prerana1998/mutual-funds-chatbot/blob/main/app.py) contains the inference part of generating response to the user queries
 [upload_docs.py](https://github.com/prerana1998/mutual-funds-chatbot/blob/main/upload_docs.py) contains code for generating embeddings and storing in the vectordatabase
 ![Architecture](https://github.com/prerana1998/mutual-funds-chatbot/blob/main/Architecture.png)
+Sample images of the chatbot
+![Chatbot](https://github.com/prerana1998/mutual-funds-chatbot/blob/main/chatbot.JPG)
